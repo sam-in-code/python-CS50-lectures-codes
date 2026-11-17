@@ -1,0 +1,1 @@
+print("Hey there! Welcome to the Pokemon Battle Simulator!")
